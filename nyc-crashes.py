@@ -10,6 +10,15 @@ print(df.dtypes)
 #the number columns have 0 nan-values and are all type int64
 #contributing_factor_vehicle an accident should have at least one car
 #drop rows that have  nan values for on_street_name, off_street_name, cross_street_neme
+
+#check the unique values for each column
 for col in df:
     print(col)
     print(df[col].unique())
+#check the number of unique values for each column
+for col in df:
+    print(col)
+    print(len(df[col].unique()))
+#change type object crash_date to date
+
+#change type object crash time to time
