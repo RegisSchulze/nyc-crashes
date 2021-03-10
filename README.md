@@ -119,21 +119,3 @@ You can have multiple final cleaned datasets, like
 1. `data_clean_GOOD_ENOUGH.csv`
 2. `data_clean_GOOD.csv`
 3. `data_clean_PRECISE.csv`
-
-## Evaluation criterias
-
-| Criteria       | Indicator                                                                     | Yes/No |
-| -------------- | ----------------------------------------------------------------------------- | ------ |
-| 1. Is complete | The student has realized all must-have features.                              |        |
-|                | There is a published GitHub page available.                                   |
-| 2. Is Correct  | There are no warnings or errors when running the script                       |        |
-|                | The final `.csv` file can be opened and is in a clean state                   |        |
-|                | The learner has used functions and minimized code duplication. |        |
-| 3. Is great    | Significantly more than 100000 rows have been used                            |        |
-|                | Features were normalized and categorical variables have been encoded properly |        |
-
-## A final note of encouragement
-
-You've been waiting for this, and I'm certain that you are ready for it.
-
-![You've got this!](https://media.giphy.com/media/ctNDDU3a4ffK1su6yJ/giphy.gif)
