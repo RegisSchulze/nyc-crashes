@@ -15,6 +15,7 @@ print(df.dtypes)
 for col in df:
     print(col)
     print(df[col].unique())
+    
 #check the number of unique values for each column
 for col in df:
     print(col)
@@ -22,3 +23,5 @@ for col in df:
 #change type object crash_date to date
 
 #change type object crash time to time
+
+#use groupby
