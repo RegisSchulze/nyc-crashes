@@ -1,5 +1,5 @@
 # Data preprocessing - NYC Motor Vehicle Crashes
-
+- Developer name: Régis Schulze
 - Repository: `nyc-crashes`
 - Type of Challenge: `Consolidation`
 - Duration: `2 days`
